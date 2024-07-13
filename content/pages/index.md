@@ -12,7 +12,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: INNOVATING HEALTHCARE THROIGH ENGINEERING & DATA
+    title: INNOVATING HEALTHCARE THROUGH ENGINEERING & DATA
     subtitle: 'JAKOB BEHLER, EPFL STUDENT'
     styles:
       self:
