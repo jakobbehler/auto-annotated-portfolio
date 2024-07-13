@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: INNOVATING HEALTHCARE THROIGH ENGINEERING & DATA
-    subtitle: Jakob Behle
+    subtitle: 'JAKOB BEHLER, EPFL STUDENT'
     styles:
       self:
         height: auto
